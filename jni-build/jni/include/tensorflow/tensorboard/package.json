@@ -25,7 +25,7 @@
     "gulp-replace": "~0.5.4",
     "gulp-server-livereload": "~1.5.4",
     "gulp-tslint": "~4.2.2",
-    "gulp-typescript": "~2.10.0",
+    "gulp-typescript": "~2.14.1",
     "gulp-util": "~3.0.7",
     "gulp-vulcanize": "~6.1.0",
     "merge2": "~0.3.6",
