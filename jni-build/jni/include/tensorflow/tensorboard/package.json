@@ -30,7 +30,7 @@
     "gulp-vulcanize": "~6.1.0",
     "merge2": "~0.3.6",
     "minimist": "~1.2.0",
-    "tsify": "^0.14.8",
+    "tsify": "^0.16.0",
     "tslint": "^3.2.1",
     "typescript": "^2.0.0",
     "typings": "~1.0.4",
